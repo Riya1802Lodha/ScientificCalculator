@@ -17,13 +17,9 @@
 * *Java*
 * *XML*
 
-## Installation/Deployed Version 💉
+## Feedback
 
- 👉 [Scientific Calculator Apk](https://github.com/Ruhul12/Scientific-Calculator/blob/main/app-release.apk)
-
-## Bugs 😥
-
-> *If there any known bugs found, please let me know.*
-> *Please enjoy
-and feel free to share your opinion, constructive criticism, or comments about my work. Email: 👉 ruhulaminparvez007@gmail.com ☺ Thank you!* 
+> *If you come across any known bugs, please inform me.*
+> *Your feedback is highly valued. Feel free to share your thoughts, constructive criticism, or comments about my work.
+Contact me via email: 👉 riyalodha1802@gmail.com. Thank you!* 
  
