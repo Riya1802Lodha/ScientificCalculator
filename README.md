@@ -4,12 +4,6 @@
 ## Introduction of My-Scientific-Calculator  🔗
 *A scientific calculator, typically handheld, is an electronic device designed for solving problems in science, engineering, and mathematics. It has entirely replaced slide rules in conventional applications and is extensively utilized in educational and professional environments.*
 
-## Demonstration
-
-<p align="left">
-  <img width="256" src="https://github.com/Ruhul12/Scientific-Calculator/blob/main/Sci-Calc.gif">
-</p>
-
                                                                   
 ## Technologies Used
 
